@@ -1,0 +1,38 @@
+_repo: The-Open-Boat-and-Other-Stories_45524
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45524-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: 'Minor conflicts: The open boat ; A man and some others ; The bride comes
+  to Yellow Sky ; The wise men ; The five white mice ; Flanagan and his short filibustering
+  adventure ; Horses ; Death and the child -- Midnight sketches. An experiment in
+  misery ; The men in the storm ; The duel that was not fought ; An ominous baby ;
+  A great mistake ; An eloquence of grief ; The auction ; The pace of youth ; A detail.'
+gutenberg_issued: '2014-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: 'Minor conflicts: The open boat. A man and some others. The bride
+  comes to Yellow Sky. The wise men. The five white mice. Flanagan and his short filibustering
+  adventure. Horses. Death and the child -- Midnight sketches: An experiment in misery.
+  The men in the storm. The duel that was not fought. An ominous baby. A great mistake.
+  An eloquence of grief. The auction. The pace of youth. A detail.'
+title: The Open Boat and Other Stories
+url: http://www.gutenberg.org/ebooks/45524
